@@ -1,8 +1,0 @@
-E:/Development/Project/simple_calculator/build/windows/runner/Debug/data/icudtl.dat
-E:/Development/Project/simple_calculator/build/windows/runner/Debug/flutter_windows.dll
-E:/Development/Project/simple_calculator/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
-E:/Development/Project/simple_calculator/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
-E:/Development/Project/simple_calculator/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
-E:/Development/Project/simple_calculator/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
-E:/Development/Project/simple_calculator/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
-E:/Development/Project/simple_calculator/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
