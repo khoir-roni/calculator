@@ -1,4 +1,3 @@
-import 'dart:ffi';
 import 'package:math_expressions/math_expressions.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
