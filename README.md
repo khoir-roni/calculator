@@ -1,7 +1,7 @@
 # simple_calculator
 
 untuk meilhat hasil kakulator versi buka disini 
-[Open](https://simple-calculator-web-view.netlify.app/)
+[Open](https://khoir-roni.github.io/calculator/build/web/#/)
 
 A new Flutter project.
 
